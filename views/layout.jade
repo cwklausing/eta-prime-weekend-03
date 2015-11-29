@@ -2,6 +2,17 @@ doctype html
 html
   head
     title= title
+    
     link(rel='stylesheet', href='/stylesheets/style.css')
+    
+    // include jquery
+    script(src='/jquery/jquery.min.js')
+    
+    // include scripts from the public folder
+    script(src='/javascripts/scripts.js')
+    
+  // body of the HTML document
   body
+  
+    // this is where the page's block content will be
     block content

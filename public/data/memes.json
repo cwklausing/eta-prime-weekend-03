@@ -1,12 +1,12 @@
 [
-	{"url": "/public/images/awkwardpenguin.jpg",
+	{"url": "/images/awkpenguin.jpg",
 	"id": 0},
-	{"url": "/public/images/ndtbadass.jpg",
+	{"url": "/images/ndtbadass.jpg",
 	"id": 1},
-	{"url": "/public/images/philosorapter.jpg",
+	{"url": "/images/philosorapter.jpg",
 	"id": 2},
-	{"url": "/public/images/baby.jpg",
+	{"url": "/images/baby.jpg",
 	"id": 3},
-	{"url": "/public/images/lebowski.jpg",
+	{"url": "/images/lebowski.jpg",
 	"id": 4}
 ]

@@ -1,0 +1,302 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"comp",
+				"compiledHTML"
+			],
+			[
+				"profile",
+				"profileName"
+			],
+			[
+				"current",
+				"currentProfile"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"employ",
+				"employeeDisplay"
+			],
+			[
+				"get",
+				"getList"
+			],
+			[
+				"arra",
+				"arrayOfTeams"
+			],
+			[
+				"number",
+				"numberOfTeams"
+			],
+			[
+				"sh",
+				"shuffledClassList"
+			],
+			[
+				"tem",
+				"tempArray"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 127.0,
+		"last_filter": "inden",
+		"selected_items":
+		[
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/cwklausing/Documents/Prime/Week4/weekend_challenge_03/views/index.jade",
+		"/Users/cwklausing/Documents/Prime/Week4/weekend_challenge_03/views/layout.jade",
+		"/Users/cwklausing/Documents/Prime/Week4/weekend_challenge_03/routes/index.js",
+		"/Users/cwklausing/Documents/Prime/Week4/weekend_challenge_03/app.js",
+		"/Users/cwklausing/Documents/Prime/Week4/weekend_challenge_03/public/stylesheets/style.css",
+		"/Users/cwklausing/Documents/Prime/Week4/weekend_challenge_03/public/data/memes.json",
+		"/Users/cwklausing/Documents/Prime/Past_Weeks/Week3/CodeSchool_Express/app.js",
+		"/Users/cwklausing/Documents/Prime/Week4/weekend_challenge_03/views/memes.jade",
+		"/Users/cwklausing/Documents/Prime/Week4/weekend_challenge_03/routes/memes.js",
+		"/Users/cwklausing/Documents/Prime/Week4/weekend_challenge_03/node_modules/express/lib/request.js",
+		"/Users/cwklausing/Documents/Prime/Week4/weekend_challenge_03/README.md",
+		"/Users/cwklausing/Documents/Prime/Week4/weekend_challenge_03/routes/users.js",
+		"/Users/cwklausing/Documents/Prime/Week3/comprehensive_challenge/server/views/index.html",
+		"/Users/cwklausing/Documents/Prime/Week3/comprehensive_challenge/server/data/connorData.json",
+		"/Users/cwklausing/Documents/Prime/Week3/comprehensive_challenge/server/public/scripts.js",
+		"/Users/cwklausing/Documents/Prime/Week3/prime_peer_nd_00/random.js",
+		"/Users/cwklausing/Documents/Prime/Past_Weeks/Week2/weekend_challenge_02/server/public/scripts/app.js",
+		"/Users/cwklausing/Documents/Prime/Week3/comprehensive_challenge/server/app.js",
+		"/Users/cwklausing/Documents/Prime/Week3/comprehensive_challenge/server/public/styles.css",
+		"/Users/cwklausing/Documents/Prime/Week3/comprehensive_challenge/package.json",
+		"/Users/cwklausing/Documents/Prime/Past_Weeks/Week2/handlebars_challenge/index.html",
+		"/Users/cwklausing/Documents/Prime/Past_Weeks/Week2/weekend_challenge_02/server/public/data/eta.json",
+		"/Users/cwklausing/Documents/Prime/Week3/express_solo_challenge/index.html",
+		"/Users/cwklausing/Documents/Prime/Week3/express_solo_challenge/static/scripts.js",
+		"/Users/cwklausing/Documents/Prime/Week3/notes.js",
+		"/Users/cwklausing/Documents/Prime/Week3/express_solo_challenge/app.js",
+		"/Users/cwklausing/Documents/Prime/Week3/comprehensive_challenge/server/views/park.html",
+		"/Users/cwklausing/Documents/Prime/Week3/comprehensive_challenge/server/views/house.html",
+		"/Users/cwklausing/Documents/Prime/Past_Weeks/PreWork/Resume/CWK-Resume/index.html",
+		"/Users/cwklausing/Documents/Prime/Week3/express_solo_challenge/package.json",
+		"/Users/cwklausing/Documents/Prime/Week3/heroku_example/node_modules/express/History.md",
+		"/Users/cwklausing/Documents/Prime/Week3/heroku_example/app.js",
+		"/Users/cwklausing/Documents/Prime/Week3/heroku_example/static/scripts.js",
+		"/Users/cwklausing/Documents/Prime/Week3/heroku_example/package.json",
+		"/Users/cwklausing/Documents/Prime/Week3/express_solo_challenge/modules/combine.js",
+		"/Users/cwklausing/Documents/Prime/Week3/express_solo_challenge/modules/random.js",
+		"/Users/cwklausing/Documents/Prime/Week3/express_solo_challenge/scripts.js",
+		"/Users/cwklausing/Documents/Prime/Past_Weeks/Week2/handlebars_challenge/script.js",
+		"/Users/cwklausing/Documents/Prime/Week3/prime_peer_nd_00/third.js",
+		"/Users/cwklausing/Documents/Prime/Week3/prime_peer_nd_00/todollars.js",
+		"/Users/cwklausing/Documents/Prime/Week3/prime_peer_nd_00/scripts.js",
+		"/Users/cwklausing/Documents/Prime/Week3/prime_peer_nd_00/app.js",
+		"/Users/cwklausing/Documents/Prime/Week3/prime_peer_nd_00/index.html",
+		"/Users/cwklausing/Documents/Prime/Week3/app.js",
+		"/Users/cwklausing/Documents/Prime/Week3/greetings.js",
+		"/Users/cwklausing/Documents/Prime/Past_Weeks/Week2/weekend_challenge_02/server/public/views/index.html",
+		"/Users/cwklausing/Documents/Prime/Past Weeks/Week 2/weekend_challenge_02/server/public/scripts/app.js",
+		"/Users/cwklausing/Documents/Prime/Past Weeks/Week 2/weekend_challenge_02/server/public/views/index.html",
+		"/Users/cwklausing/Documents/Prime/Past Weeks/Week 2/weekend_challenge_02/server/public/styles/style.css",
+		"/Users/cwklausing/Documents/Prime/Past Weeks/Week 2/weekend_challenge_02/server/public/data/eta.json",
+		"/Users/cwklausing/Documents/Prime/Past Weeks/Week 2/prime_peer_ajax_01/data.json",
+		"/Users/cwklausing/Documents/Prime/Past Weeks/Week 2/prime_peer_ajax_01/examples.js",
+		"/Users/cwklausing/Documents/Prime/Past Weeks/Week 2/prime_peer_ajax_01/index.html",
+		"/Users/cwklausing/Documents/Prime/Past Weeks/Week 2/weekend_challenge_02/server/app.js",
+		"/Users/cwklausing/Documents/Prime/Past Weeks/Week 2/weekend_challenge_02/node_modules/jquery/dist/jquery.min.map",
+		"/Users/cwklausing/Documents/Prime/Past Weeks/Week 2/weekend_challenge_02/node_modules/express/lib/express.js",
+		"/Users/cwklausing/Documents/Prime/Past Weeks/Week 2/prime_peer_ajax_01/styles.css",
+		"/Users/cwklausing/Documents/Prime/Past Weeks/Week 2/prime_peer_ajax_01/README.md",
+		"/Users/cwklausing/Documents/Prime/Week 2/prime_peer_ajax_01/data.json",
+		"/Users/cwklausing/Documents/Prime/Week 2/prime_peer_ajax_01/examples.js",
+		"/Users/cwklausing/Documents/Prime/Week 2/prime_peer_ajax_01/index.html",
+		"/Users/cwklausing/Documents/Prime/Week 2/prime_peer_ajax_01/styles.css",
+		"/Users/cwklausing/Documents/Prime/Week 2/prime_peer_ajax_01/jquery.min.js",
+		"/Users/cwklausing/Documents/Prime/Week 2/handlebars_challenge/index.html",
+		"/Users/cwklausing/Documents/Prime/Week 2/prime_peer_ajax_01/README.md",
+		"/Users/cwklausing/Documents/Prime/Week 2/handlebars_challenge/script.js",
+		"/Users/cwklausing/Documents/Prime/Week 2/handlebars_challenge/styles.css",
+		"/Users/cwklausing/Documents/Prime/Week 2/handlebars_challenge/README.md",
+		"/Users/cwklausing/Documents/Prime/Week 2/json_challenge/connor.json",
+		"/Users/cwklausing/Documents/Prime/Week 2/json_challenge/index.html",
+		"/Users/cwklausing/Documents/Prime/Week 2/handlebars_challenge/handlebars-v4.0.4.js",
+		"/Users/cwklausing/Documents/Prime/Week 2/prime_group_jq_03/styles.css",
+		"/Users/cwklausing/Documents/Prime/Week 2/prime_group_jq_03/index.html",
+		"/Users/cwklausing/Documents/Prime/Week 2/prime_group_jq_03/script.js",
+		"/Users/cwklausing/Documents/Prime/Week 2/prime_group_jq_03/README.md",
+		"/Users/cwklausing/Documents/Prime/Fun/RandoWebsite/stylesheet.css",
+		"/Users/cwklausing/Documents/Prime/Fun/RandoWebsite/script.js",
+		"/Users/cwklausing/Documents/Prime/Fun/RandoWebsite/index.html",
+		"/Users/cwklausing/Documents/Prime/Week 2/unit_test_01/app.js",
+		"/Users/cwklausing/Documents/Prime/Week 2/unit_test_01/tests.js",
+		"/Users/cwklausing/Documents/Prime/Week 2/unit_test_01/README.md",
+		"/Users/cwklausing/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/cwklausing/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/cwklausing/Documents/Prime/Week 2/unit_test_01/tests.html",
+		"/Users/cwklausing/Documents/Prime/Fun/Resume2/index.html",
+		"/Users/cwklausing/Documents/Prime/Week 2/weekend_challenge_01/index.html",
+		"/Users/cwklausing/Documents/Jobs/Molly/stylesheet.css",
+		"/Users/cwklausing/Documents/Jobs/Molly/index.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"employeeList",
+			"employeeLista",
+			"array",
+			"currentIndex",
+			"current"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"shuffledTeam"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "app.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
