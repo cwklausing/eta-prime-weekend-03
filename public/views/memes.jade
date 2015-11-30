@@ -1,0 +1,18 @@
+extends layout
+
+block content
+  h1= title
+  //div
+  #memes
+  each elem in memes
+    a(href='/memes/#{elem.id}')
+      img(src=elem.url id=elem.id)
+          
+  //form
+  //form
+  form(id= 'newComment')
+    input(type="text" name="message" placeholder="Comment here")
+    input(type="number" name="imageId" placeholder="Add id #" min='0' max='5')
+    button(type="submit") Submit Comment
+
+    

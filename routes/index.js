@@ -4,7 +4,7 @@ var memes = require('../public/data/memes.json');
 
 /* GET home page. */
 router.get('/', function(req, res, next) {
-  res.render('index', {title: "Memes!", memes: memes});
+  res.render('index', {title: "MemeHomepage"});
 });
 
 module.exports = router;

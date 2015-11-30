@@ -2,8 +2,22 @@ body {
   padding: 50px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
   background-color: #b3e6ff;
+  text-align: center;
 }
 
 a {
   color: #00B7FF;
+}
+
+img {
+	width: 200px;
+	height: 200px;
+	display: inline-block;
+	margin: 50px auto;
+}
+
+img:hover {
+	height: 400px;
+	width: 400px;
+	vertical-align: top;
 }
